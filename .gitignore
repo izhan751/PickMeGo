@@ -1,0 +1,17 @@
+# Maven build output
+target/
+
+# Compiled classes
+*.class
+
+# JVM crash logs
+hs_err_pid*.log
+replay_pid*.log
+
+# IDE files
+.idea/
+*.iml
+nbproject/
+nbactions.xml
+.vscode/
+.DS_Store
